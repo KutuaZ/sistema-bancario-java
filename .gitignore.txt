@@ -1,0 +1,14 @@
+# Archivos compilados de Java
+*.class
+
+# Carpetas de NetBeans y de construcción (Build)
+/build/
+/nbproject/private/
+/dist/
+
+# Archivos de configuración del usuario
+nb-configuration.xml
+build.properties
+
+# Archivos de manifiesto generados
+manifest.mf
